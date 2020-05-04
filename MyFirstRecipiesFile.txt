@@ -3,3 +3,4 @@ Welcome to my Recipies file:)
 1. Noodles
 2. Burger
 3. Pizza
+4. Salad
